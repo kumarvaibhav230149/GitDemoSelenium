@@ -20,6 +20,8 @@ public class day1 {
 	public void Mobilename()
 	{
 		System.out.println("Mobile name");
+		System.out.println("Browser name");
+		System.out.println("Application name");
 
 	}
 	
