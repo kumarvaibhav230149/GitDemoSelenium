@@ -20,8 +20,6 @@ public class day1 {
 	public void Mobilename()
 	{
 		System.out.println("Mobile name");
-		System.out.println("Browser name");
-		System.out.println("Application name");
 
 	}
 	
@@ -33,6 +31,21 @@ public class day1 {
 		System.out.println("Mobile Charger name234");
 		
 		System.out.println("Mobile Charger name6546");
+		
+		System.out.println("Mobile Charger name687654");
+		
+	}
+	
+	@Test
+	public void Laptopcharger()
+	{
+		System.out.println("Laptop Charger name");
+		
+		System.out.println("Laptop Charger name234");
+		
+		System.out.println("Laptop Charger name6546");
+		
+		System.out.println("Laptop Charger name687654");
 		
 	}
 	
