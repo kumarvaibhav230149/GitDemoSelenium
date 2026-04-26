@@ -20,13 +20,18 @@ public class day1 {
 	public void Mobilename()
 	{
 		System.out.println("Mobile name");
-	
+
 	}
 	
 	@Test
 	public void Mobilecharger()
 	{
 		System.out.println("Mobile Charger name");
+		
+		System.out.println("Mobile Charger name234");
+		
+		System.out.println("Mobile Charger name6546");
+		
 	}
 	
 }
